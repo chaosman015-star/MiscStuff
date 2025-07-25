@@ -1,4 +1,4 @@
-https://mods.vintagestory.at/aculinaryartillery#tab-files  1.2.5
+https://mods.vintagestory.at/aculinaryartillery#tab-files
 https://mods.vintagestory.at/alchemy#tab    1.6.50
 https://mods.vintagestory.at/ancienttools#tab-files  1.6.0-pre.3
 https://mods.vintagestory.at/animalcages#tab-files   3.2.2
